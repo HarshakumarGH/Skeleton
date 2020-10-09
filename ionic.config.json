@@ -1,0 +1,8 @@
+{
+  "name": "Skeleton",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "c7675157"
+}
